@@ -1,0 +1,13 @@
+# --- Core Dependencies ---
+# Bot framework
+aiogram==3.1.1
+
+# Database ORM
+SQLAlchemy==2.0.23
+
+# For loading .env files
+python-dotenv==1.0.0
+
+# --- Optional Database Drivers ---
+# For PostgreSQL, uncomment the following line:
+# psycopg2-binary==2.9.9
